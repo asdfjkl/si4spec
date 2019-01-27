@@ -1,4 +1,4 @@
-Scid File Format Specification Version 4
+# Scid File Format Specification Version 4
 
 Scid is a popular free chess database program. It stores games in it's
 own binary format. Whereas Scid is open source, there is no single clear
